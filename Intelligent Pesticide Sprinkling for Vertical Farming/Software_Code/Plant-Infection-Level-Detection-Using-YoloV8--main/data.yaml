@@ -1,0 +1,6 @@
+# A clean, correct version of your data.yaml file with the corrected path
+path: "C:/Users/9c23o/Plant Infection Level Detection ML model Using YOLOV8/Real_dataset"
+train: images/train
+val: images/val
+nc: 2 
+names: ['Healthy_Leaves', 'Infected_Leaves']
